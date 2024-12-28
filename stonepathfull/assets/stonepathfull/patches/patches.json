@@ -1,0 +1,28 @@
+[
+  {
+    "op": "remove",
+    "path": "/shape/base",
+    "file": "game:blocktypes/stone/generic/stonepath.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/shape/base",
+    "value": "stonepathfull:block/basic/cube-lowered-full-{cover}.json",
+    "file": "game:blocktypes/stone/generic/stonepath.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/shape/base",
+    "file": "game:blocktypes/stone/generic/stonepathslab.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/shape/base",
+    "value": "stonepathfull:block/basic/slab/slab-lowered-full-{cover}.json",
+    "file": "game:blocktypes/stone/generic/stonepathslab.json",
+    "side": "Server"
+  }
+]

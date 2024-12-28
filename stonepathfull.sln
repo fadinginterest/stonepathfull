@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "CakeBuild\CakeBuild.csproj", "{CE09F889-FBFB-4CD3-ACAE-7281BBDA5D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stonepathfull", "stonepathfull\stonepathfull.csproj", "{0A5020B5-2A5C-4552-A118-9A1EEEBD1664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE09F889-FBFB-4CD3-ACAE-7281BBDA5D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE09F889-FBFB-4CD3-ACAE-7281BBDA5D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE09F889-FBFB-4CD3-ACAE-7281BBDA5D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE09F889-FBFB-4CD3-ACAE-7281BBDA5D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5020B5-2A5C-4552-A118-9A1EEEBD1664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5020B5-2A5C-4552-A118-9A1EEEBD1664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5020B5-2A5C-4552-A118-9A1EEEBD1664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5020B5-2A5C-4552-A118-9A1EEEBD1664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2631966D-7D3B-412E-9B63-8D6C34684D1B}
+	EndGlobalSection
+EndGlobal
