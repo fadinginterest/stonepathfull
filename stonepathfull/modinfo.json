@@ -6,7 +6,7 @@
         "Dweomer"
     ],
     "description": "Adds a voxel to the Stonepath to make it a proper block height",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
         "game": ""
     }
